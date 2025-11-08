@@ -58,7 +58,7 @@ streamlit run app.py
 
 
 
-# 🧑‍🍳 App Walkthrough
+## App Walkthrough
 # 🔐 Login / Profile Creation
 
 Users start by entering their name, gender, and dietary preference to personalize their canteen experience.
