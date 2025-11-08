@@ -45,7 +45,8 @@ pip install -r requirements.txt
 <br>
 
 (or manually install with)
-<br>
+
+
 pip install streamlit pandas numpy plotly
 
 
