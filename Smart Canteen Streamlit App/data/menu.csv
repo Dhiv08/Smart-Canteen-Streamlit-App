@@ -1,0 +1,60 @@
+name,category,calories,price,diet
+Paneer Butter Masala,Veg,450,100,Vegetarian
+Veg Biryani,Veg,520,90,Vegetarian
+Dal Tadka & Rice,Veg,400,80,Vegetarian
+Aloo Gobi,Veg,350,70,Vegetarian
+Mixed Veg Curry,Veg,380,85,Vegetarian
+Chole Bhature,Veg,550,110,Vegetarian
+Palak Paneer,Veg,420,95,Vegetarian
+Vegetable Korma,Veg,390,85,Vegetarian
+Masala Dosa,Veg,430,70,Vegetarian
+Idli & Sambar,Veg,300,50,Vegetarian
+Paneer Tikka,Veg,410,100,Vegetarian
+Veg Pulao,Veg,390,85,Vegetarian
+Rajma Chawal,Veg,450,80,Vegetarian
+Stuffed Paratha,Veg,380,65,Vegetarian
+Kadai Paneer,Veg,460,105,Vegetarian
+Butter Chicken,Non-Veg,580,130,Non-Vegetarian
+Chicken Biryani,Non-Veg,640,120,Non-Vegetarian
+Fish Curry with Rice,Non-Veg,560,140,Non-Vegetarian
+Egg Fried Rice,Non-Veg,480,100,Non-Vegetarian
+Grilled Chicken Breast,Non-Veg,460,150,Non-Vegetarian
+Mutton Curry,Non-Veg,610,160,Non-Vegetarian
+Prawn Masala,Non-Veg,520,155,Non-Vegetarian
+Chicken Tikka Masala,Non-Veg,570,135,Non-Vegetarian
+Egg Curry & Rice,Non-Veg,450,95,Non-Vegetarian
+Fish Fry Thali,Non-Veg,540,150,Non-Vegetarian
+Chicken Shawarma,Non-Veg,430,100,Non-Vegetarian
+Grilled Fish Steak,Non-Veg,500,180,Non-Vegetarian
+Mutton Biryani,Non-Veg,680,160,Non-Vegetarian
+Chicken Noodles,Non-Veg,520,120,Non-Vegetarian
+Tofu Stir Fry,Vegan,350,100,Vegan
+Vegan Wrap,Vegan,320,90,Vegan
+Quinoa Salad,Vegan,280,80,Vegan
+Grilled Veg Sandwich,Vegan,300,75,Vegan
+Vegan Rice Bowl,Vegan,400,95,Vegan
+Oatmeal Bowl,Vegan,260,70,Vegan
+Chickpea Curry,Vegan,370,90,Vegan
+Veggie Burger (Vegan Patty),Vegan,420,110,Vegan
+Vegan Fried Rice,Vegan,330,85,Vegan
+Tofu Curry & Brown Rice,Vegan,390,95,Vegan
+Fresh Lime Juice,Beverage,90,40,All
+Cold Coffee,Beverage,180,60,All
+Masala Chai,Beverage,100,30,All
+Protein Shake,Beverage,220,80,All
+Filter Coffee,Beverage,120,35,All
+Buttermilk,Beverage,70,25,All
+Green Tea,Beverage,10,30,All
+Fruit Smoothie,Beverage,150,60,All
+Iced Latte,Beverage,160,70,All
+Lassi (Sweet/Salted),Beverage,190,50,All
+Gulab Jamun,Dessert,200,50,Vegetarian
+Chocolate Brownie,Dessert,250,70,Vegetarian
+Vegan Cupcake,Dessert,220,80,Vegan
+Fruit Bowl,Dessert,180,60,All
+Rasgulla,Dessert,170,45,Vegetarian
+Mysore Pak,Dessert,210,55,Vegetarian
+Ice Cream Cup,Dessert,190,70,Vegetarian
+Vegan Pudding,Dessert,200,85,Vegan
+Kheer,Dessert,230,60,Vegetarian
+Brownie Sundae,Dessert,280,90,Vegetarian
