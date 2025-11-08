@@ -8,8 +8,8 @@ Smart Canteen is an interactive Streamlit web application that brings intelligen
 
 ## 🚀 Features
 
-✅ User Profiles – Create and save personalized profiles (name, gender, diet type).
-✅ Smart Menu – Browse food items tailored to dietary preferences.
+✅ User Profiles – Create and save personalized profiles (name, gender, diet type). //
+✅ Smart Menu – Browse food items tailored to dietary preferences.//
 ✅ Cart System – Add, update, and manage your food orders.
 ✅ Calorie Dashboard – Visualize your daily calorie intake using interactive charts.
 ✅ Feedback Section – Share user experience directly within the app.
