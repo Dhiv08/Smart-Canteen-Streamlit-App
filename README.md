@@ -58,7 +58,7 @@ streamlit run app.py
 
 
 
-## 🧑‍🍳 App Walkthrough
+# 🧑‍🍳 App Walkthrough
 # 🔐 Login / Profile Creation
 
 Users start by entering their name, gender, and dietary preference to personalize their canteen experience.
@@ -84,7 +84,7 @@ Add meals to cart, modify quantity, and simulate an order placement.
 <br>
 <img width="1900" height="915" alt="image" src="https://github.com/user-attachments/assets/78fe09c9-bab2-4da4-b44d-0c1f0e0b7abc" />
 
-📊 Calorie Dashboard
+# 📊 Calorie Dashboard
 
 Visualizes calorie intake with bar charts — providing health insights.
 <br>
